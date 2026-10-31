@@ -1,7 +1,7 @@
-# Math Engine Downloads
+# Math Engine — Official Downloads
 
-Official Math Engine installers.
+Official download and installation page for Math Engine.
 
-Download the latest version from the Releases section.
+Website: https://rdxenterprise.github.io/math-engine-downloads/
 
-Supported platforms: Android, Windows and Linux.
+Downloads are available for Android, Windows and Linux.
